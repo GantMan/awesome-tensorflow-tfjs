@@ -56,6 +56,7 @@ More info [here](https://www.tensorflow.org/js).
 ## Powered by TensorFlow.js
 
 * [Handwritten Digit Classification](https://github.com/aaronhma/ngconf-2020) - A showcase project for [NgConf 2020](https://www.ng-conf.org/) talk on *A Journey into the World of Machine Learning with TensorFlow.js*
+* [TimeWarpScan.me](https://timewarpscan.me) - The viral Time Warp Scan filter, running 100% in the browser with your webcam. Slices webcam frames into tensors and stitches them back together. [[repo](https://github.com/GantMan/timewarp)]
 
 <a name="libraries" />
 
